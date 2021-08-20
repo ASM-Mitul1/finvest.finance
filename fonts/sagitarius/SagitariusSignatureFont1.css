@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FontsFreeNetSagitariusSignatureFont1';
+    src: url('fonts/FontsFreeNetSagitariusSignatureFont1.eot');
+    src: url('fonts/FontsFreeNetSagitariusSignatureFont1.eot') format('embedded-opentype'),
+         url('fonts/FontsFreeNetSagitariusSignatureFont1.woff2') format('woff2'),
+         url('fonts/FontsFreeNetSagitariusSignatureFont1.woff') format('woff'),
+         url('fonts/FontsFreeNetSagitariusSignatureFont1.ttf') format('truetype'),
+         url('fonts/FontsFreeNetSagitariusSignatureFont1.svg#FontsFreeNetSagitariusSignatureFont1') format('svg');
+}
